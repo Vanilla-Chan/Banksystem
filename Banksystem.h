@@ -1,5 +1,5 @@
-#ifndef KONTO_H_
-#define KONTO_H_
+#ifndef BANKSYSTEM_H_
+#define BANKSYSTEM_H_
 #include <string>
 class Benutzer{};
 class Konto
@@ -34,4 +34,4 @@ private:
 	void sendueberweisung(float Zahl, std::string nr);
 	void newvorgang(std::string);
 	};
-#endif /* KONTO_H_ */
+#endif /* BANKSYSTEM_H_ */
