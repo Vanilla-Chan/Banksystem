@@ -4,6 +4,10 @@
 #include <vector>
 #include <string>
 #include <stdlib.h>
+
+
+
+
 using namespace std;
 void printkonto(vector<konto> k,int index);
 void newkonto(vector<konto> k);
